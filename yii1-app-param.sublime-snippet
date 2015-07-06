@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::app()->params['$1']
+]]></content>
+	<tabTrigger>yii1p</tabTrigger>
+	<scope>source.php</scope>
+	<description>Prints 'Yii::app()->params['$1']' text.</description>
+</snippet>

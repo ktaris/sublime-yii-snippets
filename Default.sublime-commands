@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "YiiSnippets: Add Yii:t('app', '$SELECTION').",
+        "command": "insert_snippet", "args": {
+            "name": "Packages/YiiSnippets/yii-t.sublime-snippet"
+        }
+    },
+    {
+        "caption": "YiiSnippets: Add {@link $SELECTION}.",
+        "command": "insert_snippet", "args": {
+            "name": "Packages/YiiSnippets/php-doc-link.sublime-snippet"
+        }
+    },
+]

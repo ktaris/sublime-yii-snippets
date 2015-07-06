@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::t('${2:app}', '${1:$SELECTION}')
+]]></content>
+	<tabTrigger>yiit</tabTrigger>
+	<scope>source.php</scope>
+	<description>Prints a Yii translate instruction.</description>
+</snippet>

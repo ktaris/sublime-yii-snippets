@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->$1
+]]></content>
+	<tabTrigger>yii2a</tabTrigger>
+	<scope>source.php</scope>
+	<description>Prints 'Yii::$app->' text.</description>
+</snippet>

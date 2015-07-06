@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\{@link ${1:$SELECTION}\}
+]]></content>
+	<tabTrigger>dbl</tabTrigger>
+	<scope>comment.block</scope>
+	<description>Prints '\{@link ${1:$SELECTION}\}' within a documentation block.</description>
+</snippet>
