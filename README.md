@@ -26,9 +26,11 @@ Snippets Available Common for Yii 1.\* 2.\*
 
 
 **yiit**
+
 Prints: `Yii::t('${2:app}', '${1:$SELECTION}')`. It can be accesed using keys *Ctrl + k, t*, and applied to the selected text.
 
 **yiite**
+
 Prints: `<?= Yii::t('${2:app}', '${1:$SELECTION}') ?>`
 
 
@@ -41,6 +43,14 @@ Snippets Available for Yii 2.\*
 **yii2a**
 
 Prints: `Yii::\$app->$1`
+
+**yii2e**
+
+Prints: `Yii::\$app()->end();`
+
+**yii2f**
+
+Prints `Yii::\$app->session->setFlash('${1:success}', "$2");`
 
 
 

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Yii::\$app->session->setFlash('${1:success}', "$2");
+]]></content>
+	<tabTrigger>yii2f</tabTrigger>
+	<scope>source.php</scope>
+	<description>Prints "Yii::$app->session->setFlash('${1:success}', "$2");" text.</description>
+</snippet>
