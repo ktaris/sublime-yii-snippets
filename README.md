@@ -42,15 +42,15 @@ Snippets Available for Yii 2.\*
 
 **yii2a**
 
-Prints: `Yii::\$app->$1`
+Prints: `Yii::$app->$1`
 
-**yii2e**
+**yii2e**, **y2e**
 
-Prints: `Yii::\$app()->end();`
+Prints: `Yii::$app()->end();`
 
 **yii2f**
 
-Prints `Yii::\$app->session->setFlash('${1:success}', "$2");`
+Prints `Yii::$app->session->setFlash('${1:success}', "$2");`
 
 
 
