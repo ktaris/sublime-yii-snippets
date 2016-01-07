@@ -48,6 +48,10 @@ Prints: `Yii::$app->$1`
 
 Prints: `Yii::$app()->end();`
 
+**yii2u**, **y2u**
+
+Prints: `Yii::$app()->user->$1`
+
 **yii2f**
 
 Prints `Yii::$app->session->setFlash('${1:success}', "$2");`
