@@ -1,4 +1,4 @@
 [
     { "keys": ["ctrl+k", "t"], "command": "insert_snippet", "args": { "name": "Packages/YiiSnippets/yii-t.sublime-snippet" } },
-    { "keys": ["ctrl+k", "l"], "command": "insert_snippet", "args": { "name": "Packages/YiiSnippets/php-doc-link.sublime-snippet" } },
+    { "keys": ["ctrl+k", "l"], "command": "insert_snippet", "args": { "name": "Packages/YiiSnippets/php-doc-link.sublime-snippet" } }
 ]
